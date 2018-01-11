@@ -1,0 +1,24 @@
+{
+  "name": "bamazonhw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "customer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelf6022e23/bamazonHW.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguelf6022e23/bamazonHW/issues"
+  },
+  "homepage": "https://github.com/miguelf6022e23/bamazonHW#readme",
+  "dependencies": {
+    "console.table": "^0.9.1",
+    "inquirer": "^5.0.0",
+    "mysql": "github:mysqljs/mysql"
+  }
+}
